@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Exercise 3
+	</title>
+</head>
+<body>
+
+<table border="1">
+<thead>
+	<th>Name</th>
+	<th>Age</th>
+	<th>Breed</th>
+</thead>
+<tr>
+	<td>Bhushan</td>
+	<td>32</td>
+	<td>ML</td>
+</tr>
+<tr>
+	<td>Bharathi</td>
+	<td>30</td>
+	<td>MD</td>
+</tr>
+</table>
+</body>
+</html>
