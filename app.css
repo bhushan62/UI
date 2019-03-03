@@ -1,0 +1,29 @@
+h1{
+	color: rgba(255,100,90,0.8);
+	/*border-color: orange;
+	border-width: 5px;
+	border-style: solid;*/
+border:2px solid orange;
+}
+
+h4{
+	color:#75A6AD;
+}
+h4{
+		background: rgb(255,90,80);
+	}
+/*width
+color
+style
+*/
+h2{
+	color:#876860;
+}
+body{
+	background: grey;
+
+	/*
+	background: url(https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_1280.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
